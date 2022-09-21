@@ -1,0 +1,14 @@
+.plans-container--slider{
+    justify-content: center;
+    overflow-x: hidden;
+}
+
+.body--main--tables-container{
+    display: flex;
+    width: 720px;
+    justify-content: center;
+}
+
+.main--currency-table{
+    margin: 0 40px;
+}
